@@ -3,7 +3,9 @@ title Calculator
 mode con: cols=40 lines=10
 :main
 cls
-echo Welcome to Calculator!
+echo *Welcome to Airthematic Operations Performer via Calculator*
+echo 
+echo 
 @echo off
 echo         SSSSS  A   N   N  DDDD  EEEE  EEEE  PPPP 
 echo        S      A A  NN  N D   D E     E     P   P
@@ -69,3 +71,4 @@ goto main
 :end
 cls
 echo Goodbye!
+echo Thanks for using
